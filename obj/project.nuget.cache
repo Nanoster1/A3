@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uLsh0HsdUvIvvKDqR31iOMFSqbX76/KdGT8ivGjAbGWLuHCeGRGVUbJJ+F9p2sdDRLJCmq0m6wFBm2GrUEzDug==",
+  "success": true,
+  "projectFilePath": "/home/nanoster/Projects/A3/A3.csproj",
+  "expectedPackageFiles": [
+    "/home/nanoster/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/home/nanoster/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/nanoster/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.11/microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
